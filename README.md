@@ -1,4 +1,4 @@
-# Ibrahim Nasser
+# Ibrahim
 
 IT infrastructure specialist with experience in system administration, automation, endpoint management, server/network operations, and local AI tooling.
 
