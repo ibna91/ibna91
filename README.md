@@ -13,11 +13,9 @@ I build practical tools that solve real operational problems, with focus on reli
 
 ## Projects
 
-### Packtune
-
-Packtune is a project I created to make technical workflows more structured, efficient, and easier to manage.
-
-> More details, documentation, and examples will be added as the project develops.
+### [Packtune](https://github.com/ibna91/Packtune)
+A C# deployment orchestration tool for PSADT packaging, Intune Win32 prep, Windows Sandbox installer analysis, and deployment verification.
+Packtune is designed to make Windows application packaging more structured, repeatable, and easier to validate before production deployment.
 
 ## Technical areas
 
