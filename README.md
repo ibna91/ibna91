@@ -1,15 +1,15 @@
 # Ibrahim
 
 IT infrastructure specialist with experience in system administration, automation, endpoint management, server/network operations, and local AI tooling.
-
 I build practical tools that solve real operational problems, with focus on reliability, structure, and usability.
 
 ## Current focus
 
-* Local AI systems and agent-based workflows
 * Automation for IT operations and endpoint management
 * Infrastructure tooling
 * Practical applications of LLMs in real-world workflows
+* Experimental IR + harness policy adapter for smaller AI models
+
 
 ## Projects
 
