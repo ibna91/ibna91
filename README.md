@@ -17,18 +17,6 @@ I build practical tools that solve real operational problems, with focus on reli
 A C# deployment orchestration tool for PSADT packaging, Intune Win32 prep, Windows Sandbox installer analysis, and deployment verification.
 Packtune is designed to make Windows application packaging more structured, repeatable, and easier to validate before production deployment.
 
-## Technical areas
-
-* Windows Server / Active Directory
-* Microsoft 365 administration
-* Endpoint management
-* Network and infrastructure operations
-* Python
-* Automation scripting
-* Local LLMs
-* Agent systems
-* GitHub-based development workflows
-
 ## GitHub
 
-This profile is used to publish selected projects, experiments, and tools related to IT infrastructure, automation, and AI-assisted workflows.
+This profile is used to publish selected projects
