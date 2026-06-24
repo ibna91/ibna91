@@ -3,7 +3,7 @@
 * Automation for IT operations and endpoint management
 * Infrastructure tooling
 * Practical applications of LLMs in real-world workflows
-* Experimental IR + harness policy adapter for smaller AI models
+* Experimental Agent system with "Agenda" focus - using local AI models
 
 
 ## Projects
